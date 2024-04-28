@@ -24,7 +24,9 @@ Transformation of problem into multi-day-ahead classification problem containing
 
 code for univariate feature inspection
 
-
+## Data used
+First the provided data from REPLY was analyzed. Based on this analysis we switched to a larger dataset which can be found here:
+https://zenodo.org/records/5841834
 
 ## Introduction
 
